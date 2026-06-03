@@ -1,0 +1,159 @@
+DEEPTHOUGHT - BUSINESS ANALYTICS INTERNSHIP
+ROUND 1: TARGET COMPANY RESEARCH
+================================================
+
+ASSIGNMENT OBJECTIVE:
+Identify and research 25 target companies ("Federer Companies") that fit DeepThought's
+Ideal Customer Profile (ICP), then develop a strategy to scale to 1000 companies.
+
+DEADLINE: 48 hours from start
+
+================================================
+PART A: FIND 25 TARGET COMPANIES
+================================================
+
+1. SELECT YOUR RESEARCH SCOPE:
+   - City: Choose ONE from (Hyderabad, Pune, Ahmedabad, Chennai, Coimbatore, 
+     Vadodara, Bengaluru, Indore, Surat, Ludhiana, Kolhapur)
+   - Segments: Choose 1-2 from:
+     * Basket A (Specialty Manufacturing): Biotech, diagnostics, specialty chemicals, performance chemicals
+     * Basket B (Adjacent Specialty): Complex APIs, medical devices, hybrid seeds, sensors, animal health
+     * Basket C (Operator-Led): Technical textiles, precision auto, specialty food processing, artisanal manufacturing
+
+2. THE "FEDERER COMPANY" PROFILE:
+   Revenue: Rs. 50Cr - Rs. 500Cr
+   Founder: Growth mindset + wants to build in-house capability (not outsource)
+   Product: Differentiated, technical products/specialized services (not commodities)
+   Decision-maker: Demonstrates systems thinking (founder with tech pedigree OR operator 
+                   who built ERP/costing models/formal planning infrastructure)
+
+3. ELIGIBILITY GATES (Must PASS both):
+   E1 - Producer: Makes products/delivers specialized services in-house 
+        (has own facility, plant, studio). NOT a trader/distributor/CRO/service lab.
+   E2 - Accessible: Operational presence in India (HQ or primary operations).
+        DT's Fellows work on-site.
+
+4. SCORING CRITERIA - Federer Score (out of 100):
+   C3 (20 pts): Differentiation - Patents, IP, regulatory approvals, specialized equipment, 
+                proprietary processes
+   C4 (15 pts): Decision-Maker Quality - PhD/IIT/scientist OR demonstrated systems thinking
+   C5 (15 pts): Growing Sector - PLI eligible, China+1, Make-in-India, export tailwinds
+   C6 (15 pts): Growth Signals - Need ≥2 of: hiring, facility expansion, new certifications, 
+                active website, revenue growth
+   C7 (20 pts): Systems Maturity - ERP/SAP implementation, structured costing, digital 
+                infrastructure
+   C8 (15 pts): Leadership Succession - Gen-2 on board with operational role, professional 
+                managers from outside, distinct leadership portfolios
+
+5. SCORING BANDS:
+   80-100 (A): Strong Federer - High priority target
+   60-79  (B): Probable Federer - Good target
+   40-59  (C): Borderline - Research further, may have hidden disqualifier
+   <40    (D): Not ICP - Do not include
+
+6. AUTO-DISQUALIFY IF:
+   - Trader, distributor, or importer
+   - Service company (CROs, testing labs, clinical trials) unless proprietary specialized service
+   - Generic pharma (bulk APIs, branded generics)
+   - Subsidiary of large group or recently acquired
+   - PE/VC-controlled (majority institutional ownership)
+   - Revenue >Rs. 500Cr
+   - No website or placeholder site
+   - No visible activity in last 2 years
+
+7. RESEARCH METHODOLOGY:
+   - Use AI tools (Claude, ChatGPT, GitHub Copilot) as thinking partners, NOT for copy-paste output
+   - Expected yield: ~30% (need to research 75-100 companies to find 25)
+   - Verify all claims with actual evidence (LinkedIn, websites, MCA filings, Tofler, press releases)
+   - For each company, provide: name, website, city, segment, what they make, revenue estimate,
+     decision-maker (name/background), E1 & E2 gates, C3-C8 scores with evidence, overall score,
+     verdict, and personalization hook (specific, true, recent detail for outreach)
+
+PART A DELIVERABLES:
+1. CSV/Spreadsheet with 25 companies (scored, with evidence for each criterion)
+2. Methodology Document - How you found companies, sources used, research process, learnings
+3. Code/Scripts (if used) - Scraping, API calls, AI prompts, data processing notebooks
+4. Upload to GitHub or Google Drive, share link on platform
+
+================================================
+PART B: SOURCING STRATEGY + 1000-COMPANY SCALE-UP
+================================================
+
+1. QUESTION 1 (Answer in chat window):
+   "How else would you find companies that match the Federer profile across India?"
+   - Specific databases, directories, registries
+   - Industry events, expos, associations
+   - Government/regulatory data sources
+   - Creative/unconventional sourcing methods
+   For each: name it, explain why it works for this ICP, note limitations
+
+2. QUESTION 2 (Write up + GitHub):
+   "Build a list of 1000 ICP-qualified companies within one month"
+   - Where to source initial universe of companies?
+   - How to automate qualification step?
+   - How to handle quality control?
+   - What does week 1, 2, 3, 4 look like?
+   - Realistic yield at each stage?
+   Push clean proposal to GitHub, share link on platform
+
+3. MANDATORY HAND-DRAWN DIAGRAM:
+   - Show your 1000-company plan VISUALLY (not digitally generated)
+   - Include: sourcing funnel, stages, tools at each stage, weekly flow, quality checkpoints
+   - Take photo and send directly in Internshala chat window
+   - Purpose: Proves you thought through the problem yourself (not LLM copy-paste)
+   - If no hand-drawn diagram → application not reviewed
+
+PART B DELIVERABLES:
+1. Sourcing Methods (Question 1) - Direct in Internshala chat
+2. 1000-Company Proposal (Question 2) - Full write-up pushed to GitHub, link on Internshala
+3. Hand-drawn Diagram - Photo in Internshala chat window (MANDATORY)
+
+================================================
+EVALUATION CRITERIA
+================================================
+
+1. Research Quality - Real companies with verified evidence (will verify claims)
+2. ICP Judgment - Can distinguish commodity vs specialty, growth vs stagnant, promoter vs institutional
+3. Evidence Discipline - Every score has specific evidence point, not assertions
+4. Sourcing Creativity - Think beyond Google, identify scalable methods
+5. Scale-up Thinking - Realistic proposal accounting for yields, QC, time constraints
+6. Communication Clarity - Output structured, concise, actionable
+
+================================================
+KEY LEARNINGS FROM EXAMPLES
+================================================
+
+EXAMPLE 1 - PASS: Ananth Technologies (100/100 - A-band)
+Science-founder (ex-ISRO), gen-2 CEO, defence/space (PLI eligible), 30% growth,
+AS9100C certification (systems maturity). Textbook Federer.
+
+EXAMPLE 2 - PASS: Pioneer Embroideries (86/100 - A-band)
+Operator-founder (no PhD), but built SAP S/4HANA costing models, multiple leaders
+with distinct portfolios, facility expansion. Scores A-band through operational
+infrastructure not academic credentials.
+
+EXAMPLE 3 - FAIL: Suven Pharma
+Now Advent-owned (PE-controlled). No longer promoter-driven. Fails Federer test.
+
+EXAMPLE 4 - FAIL: S&D Apparel (39/100 - D-band)
+Strong brand/craft, capable gen-2, but C7 (Systems)=0 is structural disqualifier.
+Zero ERP, paper-based, no systems thinking evidence. DT needs infrastructure to work with.
+
+================================================
+TIME MANAGEMENT
+================================================
+- 48 hours total from start
+- Expect: 10-15 hours research for Part A (75-100 company investigations)
+- Part B: 5-7 hours for proposal + diagram
+- Save 3-5 hours for formatting, verification, upload
+
+================================================
+IMPORTANT NOTES
+================================================
+
+1. AI is a tool, not a shortcut - Use for research assistance, not output copy-paste
+2. Hand-drawn diagram is MANDATORY - Digitally generated diagrams will be rejected
+3. Make reasonable assumptions if something is unclear - State them in your work
+4. City "operational presence" ≠ just registered office - Verify where actual work happens
+5. Verification matters - We will check your claims against reality
+
