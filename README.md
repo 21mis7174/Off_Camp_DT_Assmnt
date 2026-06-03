@@ -64,6 +64,19 @@ Week 4: Rank all 1200, pick top 1000. Spot check 20 random ones to make sure the
 
 We don't score all 1000 deeply. That would take too long. Instead we screen first to narrow down, then only deep dive on the best ones. This saves a lot of time.
 
+### Sourcing Flowchart
+
+Here's the hand-drawn flowchart showing the complete 4-week process:
+
+![1000 Company Sourcing Flowchart](1000_company_sourcing_flowchart.png)
+
+This diagram shows:
+- Week 1: Gather 2500 companies
+- Week 2: Apply E1 and E2 filters
+- Week 3: Screen and deep research
+- Week 4: Rank and select final 1000
+- Quality checkpoints at each stage
+
 ### Files from Part B
 
 PART_B_ANSWERS.txt - Detailed answers about where to find companies and the full 4-week plan
